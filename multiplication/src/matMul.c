@@ -166,6 +166,5 @@ int main(int argc, char* argv[])
     printf("%.16f\t", etime - btime);
     printf("%.16f\n", size * size * size * 2 / (etime - btime) / 1e+9) ;
 #endif
-
     return EXIT_SUCCESS;
 }
