@@ -1,8 +1,4 @@
 /**********************************************
- * Author: Jiahui Guo
- * Email: guo.jiahui07@gmail.com
- * Department: EECS
- * CS594 Homework 1
  * Function: The matrix-matrix multiplication
 ***********************************************/
 
