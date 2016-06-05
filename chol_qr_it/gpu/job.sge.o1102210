@@ -1,0 +1,154 @@
+Warning: no access to tty (Bad file descriptor).
+Thus no job control in this shell.
+
+Usage: 
+  chol_qr_it -N 2048 -M 128
+
+LAPACK CPU Processing time: 12.731000 (ms) 
+Speed: 3.514197 GFlops 
+
+
+CPU Processing time: 8.339000 (ms) 
+Speed: 5.365061 GFlops 
+ ||I - Q'Q||_F = 1.204919e-04, ||I-Q'Q||_max = 4.565716e-05 
+ ||A - Q R||_F = 1.308119e-05 
+
+
+GPU Processing time: 5.740000 (ms) 
+Speed: 7.794293 GFlops 
+ ||I - Q'Q||_F = 2.654069e-04, ||I-Q'Q||_max = 1.164869e-05 
+ ||A - Q R||_F = 4.011980e-05 
+
+Press ENTER to exit...
+
+
+
+Usage: 
+  chol_qr_it -N 4096 -M 128
+
+LAPACK CPU Processing time: 14.353000 (ms) 
+Speed: 6.234131 GFlops 
+
+
+CPU Processing time: 8.479000 (ms) 
+Speed: 10.552953 GFlops 
+ ||I - Q'Q||_F = 1.072600e-04, ||I-Q'Q||_max = 1.239305e-05 
+ ||A - Q R||_F = 1.769652e-05 
+
+
+GPU Processing time: 6.927000 (ms) 
+Speed: 12.917350 GFlops 
+ ||I - Q'Q||_F = 3.552297e-04, ||I-Q'Q||_max = 2.944469e-05 
+ ||A - Q R||_F = 5.674356e-05 
+
+Press ENTER to exit...
+
+
+
+Usage: 
+  chol_qr_it -N 8192 -M 128
+
+LAPACK CPU Processing time: 62.321999 (ms) 
+Speed: 2.871490 GFlops 
+
+
+CPU Processing time: 12.594000 (ms) 
+Speed: 14.209701 GFlops 
+ ||I - Q'Q||_F = 1.023423e-04, ||I-Q'Q||_max = 2.193451e-05 
+ ||A - Q R||_F = 2.588135e-05 
+
+
+GPU Processing time: 9.777000 (ms) 
+Speed: 18.303873 GFlops 
+ ||I - Q'Q||_F = 4.758897e-04, ||I-Q'Q||_max = 2.670288e-05 
+ ||A - Q R||_F = 7.984383e-05 
+
+Press ENTER to exit...
+
+
+
+Usage: 
+  chol_qr_it -N 16384 -M 128
+
+LAPACK CPU Processing time: 30.801001 (ms) 
+Speed: 11.620205 GFlops 
+
+
+CPU Processing time: 15.507000 (ms) 
+Speed: 23.080798 GFlops 
+ ||I - Q'Q||_F = 1.089533e-04, ||I-Q'Q||_max = 3.719330e-05 
+ ||A - Q R||_F = 3.459802e-05 
+
+
+GPU Processing time: 12.813000 (ms) 
+Speed: 27.933657 GFlops 
+ ||I - Q'Q||_F = 6.484461e-04, ||I-Q'Q||_max = 2.706051e-05 
+ ||A - Q R||_F = 1.127896e-04 
+
+Press ENTER to exit...
+
+
+
+Usage: 
+  chol_qr_it -N 32768 -M 128
+
+LAPACK CPU Processing time: 63.124001 (ms) 
+Speed: 11.340027 GFlops 
+
+
+CPU Processing time: 23.197001 (ms) 
+Speed: 30.858640 GFlops 
+ ||I - Q'Q||_F = 1.115238e-04, ||I-Q'Q||_max = 2.533197e-05 
+ ||A - Q R||_F = 5.193347e-05 
+
+
+GPU Processing time: 17.174999 (ms) 
+Speed: 41.678481 GFlops 
+ ||I - Q'Q||_F = 9.231554e-04, ||I-Q'Q||_max = 3.588200e-05 
+ ||A - Q R||_F = 1.595876e-04 
+
+Press ENTER to exit...
+
+
+
+Usage: 
+  chol_qr_it -N 65536 -M 128
+
+LAPACK CPU Processing time: 130.102005 (ms) 
+Speed: 11.004102 GFlops 
+
+
+CPU Processing time: 35.778000 (ms) 
+Speed: 40.014975 GFlops 
+ ||I - Q'Q||_F = 1.257995e-04, ||I-Q'Q||_max = 3.588200e-05 
+ ||A - Q R||_F = 6.898333e-05 
+
+
+GPU Processing time: 26.816000 (ms) 
+Speed: 53.388118 GFlops 
+ ||I - Q'Q||_F = 1.318585e-03, ||I-Q'Q||_max = 5.435944e-05 
+ ||A - Q R||_F = 2.258050e-04 
+
+Press ENTER to exit...
+
+
+
+Usage: 
+  chol_qr_it -N 131072 -M 128
+
+LAPACK CPU Processing time: 216.261002 (ms) 
+Speed: 13.240073 GFlops 
+
+
+CPU Processing time: 64.978996 (ms) 
+Speed: 44.065186 GFlops 
+ ||I - Q'Q||_F = 1.490309e-04, ||I-Q'Q||_max = 1.919270e-05 
+ ||A - Q R||_F = 1.021141e-04 
+
+
+GPU Processing time: 46.557999 (ms) 
+Speed: 61.499884 GFlops 
+ ||I - Q'Q||_F = 1.965713e-03, ||I-Q'Q||_max = 1.168251e-04 
+ ||A - Q R||_F = 3.190467e-04 
+
+Press ENTER to exit...

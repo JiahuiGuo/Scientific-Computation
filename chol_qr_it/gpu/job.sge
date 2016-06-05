@@ -1,0 +1,24 @@
+#$ -l gpgpu=1
+#$ -cwd
+
+module load cuda
+
+./chol_qr_it -N 2048 -M 128
+echo
+echo
+./chol_qr_it -N 4096 -M 128
+echo
+echo
+./chol_qr_it -N 8192 -M 128
+echo
+echo
+./chol_qr_it -N 16384 -M 128
+echo
+echo
+./chol_qr_it -N 32768 -M 128
+echo
+echo
+./chol_qr_it -N 65536 -M 128
+echo
+echo
+./chol_qr_it -N 131072 -M 128
