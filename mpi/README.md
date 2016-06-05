@@ -1,4 +1,4 @@
-# How to run the program?
+# How to run
 ```{bash}
 cd src
 make
